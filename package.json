@@ -1,0 +1,20 @@
+{
+  "name": "finalproject_esp32_raspberrypi_localmqtt",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://github.com/platformio/platform-espressif32/workflows/Examples/badge.svg)](https://github.com/platformio/platform-espressif32/actions)",
+  "main": "run_gesture_webcam.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "node-webcam": "^0.8.2"
+  }
+}

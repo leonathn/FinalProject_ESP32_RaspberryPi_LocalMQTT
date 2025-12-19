@@ -3,3 +3,11 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+
+# Node / JS tooling
+node_modules/
+npm-debug.log*
+
+# Local artifacts
+.DS_Store
+gesture-frame.png
